@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Why we use <br> element",
+        "answer_1": "To make the font itialic",
+        "answer_2": "To make the text bold",
+        "answer_3": "To add breakline",
+        "answer_4": "To add horizontal line",
+        "rigth_answer": "To add breakline"
+    },
+    {
+        "title": "is img tag has href attr",
+        "answer_1": "Yes",
+        "answer_2": "No, it's for a tag",
+        "answer_3": "All Element has this attr",
+        "answer_4": "Answer 1 and 3 is right",
+        "rigth_answer": "No, it's for a tag"
+    },
+    {
+        "title": "is img tag has href attr",
+        "answer_1": "Yes",
+        "answer_2": "No, it's for a tag",
+        "answer_3": "All Element has this attr",
+        "answer_4": "Answer 1 and 3 is right",
+        "rigth_answer": "No, it's for a tag"
+    },
+    {
+        "title": "is img tag has href attr",
+        "answer_1": "Yes",
+        "answer_2": "No, it's for a tag",
+        "answer_3": "All Element has this attr",
+        "answer_4": "Answer 1 and 3 is right",
+        "rigth_answer": "No, it's for a tag"
+    }
+
+]
